@@ -1,2 +1,3 @@
 # Shopping-List-App
-a Simple App For Add and Remove Items From The Shopping List
+a very Simple App For Add and Remove Items From The Shopping List
+
